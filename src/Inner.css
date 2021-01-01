@@ -1,0 +1,62 @@
+.main{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+
+
+ 
+}
+
+/* 
+.contain{
+    object-fit: contain;
+} */
+.HeadProp{
+    margin-left: 80px;
+
+    color: rgb(13, 0, 128);
+   
+}
+.pre{
+
+    margin-left: 80px;
+}
+
+.cardDowntxt{
+
+    display: flex;
+
+    justify-content: flex start;
+  
+}
+
+.greenclr{
+
+    margin-left: 80px;
+    color: green;
+}
+
+.blueclr{
+
+    margin-left: 80px;
+    color: blue;
+}
+
+.last{
+ 
+    display: flex;
+    justify-content: space-around;
+}
+
+.lastcolor1{
+
+    margin-left:0px;
+
+    color:green
+    
+}
+.lastcolor2{
+    color: green;
+}
