@@ -1,8 +1,18 @@
-/* .showing{
-
+.showing{
+  
   display: flex;
-  flex-direction: row;
+
+  
+  margin-top: 80px;
+
+  margin-left: 150px;
+
+ 
+}
+.ComponentRow{
+
+  margin-left: 2px;
 
   
 }
- */
+

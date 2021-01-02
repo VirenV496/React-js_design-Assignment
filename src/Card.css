@@ -1,7 +1,6 @@
-/* .HeaderName{
 
-    display: flex;
-} */
+
+
 .viratindia{
 
     display: flex;
@@ -14,21 +13,72 @@
 
 .India{
 
-    color: green;
+    color: blue;
  
-    margin-left: 20px;
+    margin-left: 140px;
 }
 
 
 
 
 
+.HeaderName{
+
+    border-radius: 32px;    
+}
+
 
 .MiddleCards{
+
+    border-radius: 16px; 
+
+
 
     background-color: black;
   
     
 } 
+
+
+
+.fontt{
+    margin-right: 10px;
+    font-weight: 500 ;
+}
+
+.st{
+
+    margin-left: 130px;
+
+    color:green;
+}
+
+.st2{
+  
+    margin-left: 140px;
+
+    color:green;
+}
+
+.st3{
+    margin-left: 140px;
+
+    color:green;
+
+}
+
+.st4{
+
+    margin-left: 140px;
+
+    color:green;
+}
+
+.st5{
+
+    margin-left: 140px;
+
+    color:green;
+}
 
 

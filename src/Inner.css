@@ -1,24 +1,19 @@
 .main{
 
-    display: flex;
+    display: flex;  
     flex-direction: row;
-    justify-content: space-evenly;
-    
+    justify-content: space-around;
 
-
- 
 }
 
-/* 
-.contain{
-    object-fit: contain;
-} */
-.HeadProp{
-    margin-left: 80px;
 
-    color: rgb(13, 0, 128);
+.HeadProp{
+
+    color: rgb(204, 0, 255);
    
 }
+
+
 .pre{
 
     margin-left: 80px;
@@ -34,29 +29,45 @@
 
 .greenclr{
 
-    margin-left: 80px;
+ 
     color: green;
 }
 
 .blueclr{
 
-    margin-left: 80px;
-    color: blue;
+   
+    color: rgb(204, 0, 255);
 }
 
 .last{
  
-    display: flex;
-    justify-content: space-around;
+    display: inline-flex;
+   
+    position: relative;
+   
+
 }
 
 .lastcolor1{
 
-    margin-left:0px;
-
+    margin-right: 150px;
+   
     color:green
     
 }
 .lastcolor2{
+    margin-right: 100px;
     color: green;
+}
+
+.spann{
+    font-weight: 500 ;
+}
+
+.Winnerst{
+
+     
+    display: inline-flex;
+   
+   margin-left: 400px;
 }
