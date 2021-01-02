@@ -1,6 +1,7 @@
 # React-js_design-Assignment
 #Screenshot
 
-![Screenshot3](https://user-images.githubusercontent.com/65226860/103453077-0a1bdd80-4cfc-11eb-8b86-da47dec6f6b7.png)
+
+![Screenshot4](https://user-images.githubusercontent.com/65226860/103453203-6e8b6c80-4cfd-11eb-8ec0-1dde718f6911.png)
 
 
